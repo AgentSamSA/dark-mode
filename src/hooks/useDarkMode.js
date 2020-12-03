@@ -5,3 +5,5 @@ const useDarkMode = (darkModeToggle) => {
 
     return [values, setValues];
 }
+
+export default useDarkMode;
